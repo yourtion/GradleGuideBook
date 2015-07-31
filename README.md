@@ -14,6 +14,10 @@
 
 下载电子书: https://www.gitbook.com/book/yourtion/gradle-guide-book/details
 
+- PDF: https://www.gitbook.com/download/pdf/book/yourtion/gradle-guide-book
+- EPUB: https://www.gitbook.com/download/epub/book/yourtion/gradle-guide-book
+- MOBI: https://www.gitbook.com/download/mobi/book/yourtion/gradle-guide-book
+
 **有修改建议优化，请直接Fork：<https://github.com/yourtion/GradleGuideBook> 进行修改并申请 Pull Request。**
 
 **Yourtion**
